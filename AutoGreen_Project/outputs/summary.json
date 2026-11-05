@@ -1,0 +1,12 @@
+{
+  "rows": 756,
+  "states": 36,
+  "missing": 5,
+  "completeness_percent": 99.33862433862434,
+  "matched_pairs": 321,
+  "matched_growth_percent": 23.47014746182552,
+  "matched_2025": 3227615,
+  "matched_2026": 3985141,
+  "total_2025": 4646012,
+  "total_2026": 3985145
+}
